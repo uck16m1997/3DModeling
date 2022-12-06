@@ -23,6 +23,7 @@
 - When scaling multiple objects we can use transform pivot point menu and change it to individual origins instead of the median of the objects
 - Ctrl A is used to apply scale,rotation,location changes
 - Ctrl J is used to join two objects together
+- Forward Slash(/) on the numpad focuses on the object while ignoring the rest of the objects
 
 ## Context Menu
 - Right Click Shade Smooth can be used to create soft edges look without changing the geometry of the object

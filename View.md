@@ -7,6 +7,7 @@
 - Shift + Middle Mouse for strafing
 - Mouse Wheel or Ctrl Middle for Zooming
 - N -> View can be used to lock camera to viewport
+- Ctrl Alt 0 can also be used to bring Camera to viewport
 
 ## Viewport Details
 - Numpad 1 for Front View / Ctrl Numpad 1 for Back View

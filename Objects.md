@@ -21,6 +21,8 @@
 - F2 is used to rename objects
 - Top magnet can be enabled to snap objects to axis or faces
 - When scaling multiple objects we can use transform pivot point menu and change it to individual origins instead of the median of the objects
+- Ctrl A is used to apply scale,rotation,location changes
+- Ctrl J is used to join two objects together
 
 ## Context Menu
 - Right Click Shade Smooth can be used to create soft edges look without changing the geometry of the object
@@ -39,3 +41,10 @@
 - I is used for insetting (extrude and scaling) 
 - Alt LClick can be used to loop select
 - O can be used to enable proportional editing
+- We can use Ctrl + to grow and Ctrl - to shrink the selected by adding or removing adjacent selections
+- Ctrl B is used to Bevel the edges
+- Alt E can be used to create extrusion on specific axis like extruding on normals
+- When beveling vertices with Ctrl B there will be need to press V for changing the bevel mode from edge to vertex otherwise Ctrl Shift B can be used to just do vertex beveling
+- J key is used to join two vertices
+- K is used to enable Knife option and create manual cuts 
+- Ctrl L link Materials can be used to share material between multiple objecs
